@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="txt_resultado">Resultado</string>
+    <string name="btn_somar">Somar</string>
+    <string name="btn_subtrair">Subtrair</string>
+    <string name="txt_numA">A</string>
+    <string name="txt_numeroB">B</string>
+    <string name="txt_compartilhar">Compartilhar</string>
+</resources>
